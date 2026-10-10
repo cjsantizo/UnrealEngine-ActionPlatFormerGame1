@@ -1,4 +1,20 @@
 # ActionPlatFormer
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/72a2f69f-17f5-4670-aafd-0326cc1b2354">
+    <img src="https://github.com/user-attachments/assets/72a2f69f-17f5-4670-aafd-0326cc1b2354" width="46%" alt="Website Screenshot 1">
+  </a>
+  <a href="https://github.com/user-attachments/assets/476d6c2a-20f1-4dd4-bc85-510730756223">
+    <img width="320" height="181" alt="Screenshot 2026-10-10 142802" src="https://github.com/user-attachments/assets/caf3601d-7f1d-4679-91e0-c5d33b7180a7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/85503d8a-963d-48b7-844e-2eefa0aa444a">
+    <img width="1260" height="531" alt="Screenshot 2026-10-10 143511" src="https://github.com/user-attachments/assets/9ec5f39d-2932-4a85-b58f-b53efc55e645" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/0d74d0a0-a7ea-437d-92b1-85c9dffaa426">
+  </a>
+</p>
 
 ## Project Overview
 
