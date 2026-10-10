@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-ActionPlatFormer is a 3D action-platformer game developed using **Unreal Engine 5 and Blueprint Visual Scripting**. The game combines 3D environments with 2D pixel-art characters, creating a unique visual style.
+ActionPlatFormer is a 3D action-platformer game developed using Unreal Engine 5 and Blueprint Visual Scripting. The game combines 3D environments with 2D pixel-art characters, creating a unique visual style.
 
 Players navigate challenging parkour-style levels, fight enemies, collect power-ups, activate checkpoints, and face a powerful boss with a large amount of health.
 
